@@ -36,7 +36,7 @@ Phần này hướng dẫn sử dụng công cụ Selenium IDE (Extension) trên
 Bước 1: Tải và cài đặt Extension
 Tải Selenium IDE cho Firefox
 
-[(https://microsoftedge.microsoft.com/addons/detail/selenium-ide/ajdpfmkffanmkhejnopjppegokpogffp))]
+[(https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/)]
 
 Nhấn nút Add to Firefox (Thêm vào Firefox).
 
