@@ -12,16 +12,17 @@
 
 ---
 
-## Giới thiệu đề tài
+## Nội dung đề tài
 
-Kiểm thử website bán kính mắt
+Kiểm thử Website Bán kính mắt
 
 
 ## Hướng dẫn cài đặt & Chạy
 
-### 1. Cài đặt thư viện
+### 1. Chạy code tự động Kiểm thử trong Pycharm/VisualStudioCode
 Chạy lệnh sau trong terminal 
 ```bash
 pip install selenium pytest
 ```
-### 2. Chạy các file .py trong folder code
+Chạy các file .py trong folder code 
+### 2. Chạy code tự động Kiểm thử trong FireFox bằng SeleniumIDE
