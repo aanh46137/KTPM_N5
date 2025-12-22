@@ -27,7 +27,7 @@ Bước 1:Chạy lệnh sau trong terminal
 ```bash
 pip install selenium pytest
 ```
-Bước 2: Chạy các file .py trong folder code 
+Bước 2: Chạy các file .py trong folder CodeTuDong.
 
 ### 2. Chạy code tự động Kiểm thử trong FireFox bằng SeleniumIDE
 
@@ -46,7 +46,7 @@ Nhấn vào biểu tượng Selenium IDE (hình máy quay phim) trên thanh côn
 
 Tại màn hình chính, chọn dòng: "Open an existing project".
 
-Chọn file dự án có đuôi .side nằm trong thư mục code này.
+Chọn file dự án có đuôi .side nằm trong thư mục FileSeleniumIDE.
 
 Giao diện dự án hiện ra, chọn Test Case bạn muốn chạy ở cột danh sách bên trái.
 
