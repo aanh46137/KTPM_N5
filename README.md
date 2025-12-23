@@ -18,6 +18,10 @@ Kiểm thử Website Bán kính mắt
 
 
 ## Hướng dẫn cài đặt & Chạy
+Tải code
+```bash
+git clone https://github.com/aanh46137/KTPM_N5.git
+```
 
 ### 1. Chạy code tự động Kiểm thử trong Pycharm/VisualStudioCode
 
