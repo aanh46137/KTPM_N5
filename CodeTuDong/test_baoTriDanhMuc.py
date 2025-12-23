@@ -24,7 +24,7 @@ class TestBaoTriDanhMuc():
     pass
 
   def teardown_method(self, method):
-    pass
+    time.sleep(5)
   
   def test_tC044(self):
     self.driver.get("http://hauiproj.somee.com/Default.aspx")
