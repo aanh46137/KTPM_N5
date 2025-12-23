@@ -54,4 +54,4 @@ Chọn file dự án có đuôi .side nằm trong thư mục FileSeleniumIDE.
 
 Giao diện dự án hiện ra, chọn Test Case bạn muốn chạy ở cột danh sách bên trái.
 
-Nhấn nút Run all tests (Biểu tượng tam giác Play ▶) trên thanh menu để bắt đầu chạy kiểm thử tự động.
+Nhấn nút Run all tests trên thanh menu để bắt đầu chạy kiểm thử tự động.
